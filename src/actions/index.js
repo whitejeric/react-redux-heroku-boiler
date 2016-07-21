@@ -10,7 +10,7 @@ export function addCount(){
   };
 }
 
-export function addCount(){
+export function subCount(){
   return {
     type: SUB_COUNT
   };
@@ -18,7 +18,7 @@ export function addCount(){
 
 export function changeCount(number){
   return {
-    type: SUB_COUNT
+    type: CHANGE_COUNT,
     number
   };
 }

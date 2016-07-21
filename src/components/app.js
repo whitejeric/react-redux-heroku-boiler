@@ -1,8 +1,9 @@
 import React from 'react';
+import Counter from '../containers/container-counter';
 
 const App = () => (
   <div>
-    Build something here!
+    <Counter />
   </div>
 )
 

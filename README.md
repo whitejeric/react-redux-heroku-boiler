@@ -26,5 +26,6 @@ A react/redux template specifically created to be served by heroku.
     - npm start
       - or
     - heroku local
-##
+
+
 [Here's a demo](https://react-redux-heroku-boiler.herokuapp.com/)

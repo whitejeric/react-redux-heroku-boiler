@@ -27106,7 +27106,7 @@
 	      return _react2.default.createElement(
 	        'div',
 	        null,
-	        'You got thddddis sto chassnge hurrdah'
+	        'Did this change after running build?'
 	      );
 	    }
 	  }]);

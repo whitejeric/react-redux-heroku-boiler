@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default class App extends React.Component{
-  render(){
-    return (
-      <div>Did this change after running build?</div>
-    );
-  }
-}
+const App = () => (
+  <div>
+    Build something here!
+  </div>
+)
+
+export default App

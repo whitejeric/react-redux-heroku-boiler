@@ -1,10 +1,10 @@
 # react/redux/heroku boilerplate
 A react/redux template specifically created to be served by heroku.
 ##setup:
-  -Clone repo
-  -Create heroku app in heroku dashboard or terminal
-  -cmd:
-    -npm install
+  - Clone repo
+  - Create heroku app in heroku dashboard or terminal
+  - cmd:
+    - npm install
     -npm run build
     -heroku login
     -git init

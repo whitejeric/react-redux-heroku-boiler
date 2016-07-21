@@ -2,6 +2,7 @@
   "name": "react-redux-heroku-boiler",
   "version": "0.0.0",
   "description": "A boilerpate template designed for hosting react/redux apps on heroku.",
+  "author": "Eric White",
   "engines": {
     "node": "6.2.2"
   },

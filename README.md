@@ -1,5 +1,5 @@
-# react/redux/heroku boilerplate
-A react/redux template specifically created to be served by heroku.
+# react/redux/heroku boilerplate 
+A react/redux template specifically created to be served by heroku. [demo](https://react-redux-heroku-boiler.herokuapp.com/)
 ##setup:
   - Clone repo
   - Create heroku app in heroku dashboard or terminal
@@ -28,4 +28,4 @@ A react/redux template specifically created to be served by heroku.
     - heroku local
 
 
-[Here's a demo](https://react-redux-heroku-boiler.herokuapp.com/)
+

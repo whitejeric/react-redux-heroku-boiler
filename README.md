@@ -10,7 +10,7 @@ A react/redux template specifically created to be served by heroku. [demo](https
     - git init
     - git add .
     - git commit -m "init"
-    - heroku git:remote -a <HEROKU_APP_NAME>
+    - heroku git:remote -a [HEROKU_APP_NAME]
     - git push heroku master
     - heroku open
   
